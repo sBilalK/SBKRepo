@@ -1,2 +1,2 @@
 # TestRepo
-Test Amaçları
+Test Amaçlıdır
